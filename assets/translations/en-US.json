@@ -1,0 +1,171 @@
+{
+    "SETTINGS_SCREEN":{
+    "APP_BAR_TEXT":"Settings",
+    "FORM_HEADER_OTHERS":"Others",
+    "FORM_SHARE_TITLE":"Share",
+    "FORM_CONTACT_TITLE":"Contact",
+    "FORM_CONTACT_SUBTITLE":"Contact us to tell your problems & suggestions",
+    "FORM_RATE_TITLE":"Rate Coin Dino",
+    "FORM_RATE_SUBTITLE":"Support us with your review",
+    "FORM_HEADER_SETTINGS":"Options",
+    "FORM_LANGUAGE_TITLE":"Language",
+    "FORM_THEME_TITLE":"Theme",
+    "FORM_LANGUAGES_SELECTION_TITLE":"Languages",
+    "FORM_THEMES_SELECTION_TITLE":"Themes",
+    "IAP_CARD_TITLE":"Get Premium",
+    "IAP_CARD_SUBTITLE":"For a better experience."
+    },
+    
+
+    "SEARCH_SCREEN":{
+        "APP_BAR_TITLE_SEARCH":"Search",
+        "APP_BAR_TITLE_TRENDS":"Trends"
+    },
+
+
+    "ONBOARD_SCREEN":{
+        "DATA_NOTIFICATON_TITLE":"Get Notified",
+        "DATA_NOTIFICATON_DESCRIPTION":"Get notified when your favorite coin hits the target price that you set.",
+        "DATA_CATEGORY_TITLE":"Advanced Search",
+        "DATA_CATEGORY_DESCRIPTION":"Search coins by their name, price, category, market cap and other options. Find what you want easily.",
+    
+        "DATA_DETAIL_TITLE":"Detailed Information",
+        "DATA_DETAIL_DESCRIPTION":"Fully detailed information about coins. Price, graph, website, market cap, purpose of the coin and many more!",
+        
+        "DATA_THEME_TITLE":"Customizable Interface",
+        "DATA_THEME_DESCRIPTION":"Use Coin Dino however you want with many theme options! Everyone has a favorite color. What is yours?"
+    },
+    
+
+    "INAPP_SCREEN":{
+        "APP_BAR_TITLE":"Purchase",
+        "RESTORE_BUTTON_TEXT":"Restore Purchase",
+        "BUY_BUTTON_TEXT":"Get Premium",
+        "TITLE_TEXT":"We know that ads are annoying. Aren't they?",
+        "DESCRIPTION_TEXT":"You can support us and remove all ads in Coin Dino permanently by getting premium with $1",
+        "ERROR_ALERT_TITLE": "Oops!",
+        "ERROR_ALERT_MESSAGE": "Something went wrong." ,
+        "PURCHASE_ALERT_TITLE":"Great!",
+        "PURCHASE_ALERT_MESSAGE":"You are premium now!",
+        "RESTORE_ALERT_TITLE":"Restored!",
+        "RESTORE_ALERT_MESSAGE":"Your premium has been restored if you had one",
+        "BUY_BUTTON_PREMIUM_TEXT":"You're Premium :)"
+    },
+
+    "HOME_SCREEN":{
+    "APP_BAR_TITLE":"Home",
+    "INTERVAL_SELECTION_PAGE_TITLE":"Set Interval",
+    "ORDER_SELECTION_PAGE_TITLE":"Set Sort Order",
+    "CATEGORY_SELECTION_PAGE_TITLE":"Set Category",
+    "REFRESHED_SNACK_MESSAGE":"Refreshed",
+    "HEADER_RANK_TITLE":"#",
+    "HEADER_COIN_TITLE":"Coin",
+    "HEADER_PRICE_TITLE":"Price",
+    "HEADER_MARKETCAP_TITLE":"Market Cap"
+    },
+   
+    "DETAIL_INFO_SCREEN":{
+        "HOME_PAGE_LINK_TEXT":"Home Page"
+    },
+
+    "DETAIL_SCREEN":{
+        "VIEWMODEL_SHARE_TEXT":"Hey! Check out {} from Coin Dino. https://apps.apple.com/us/app/coin-dino-crypto-tracker/id1581811548",
+        "INFORMATION_ROW_MARKET_CAP_RANK_TEXT":"MARKET CAP RANK",
+        "INFORMATION_ROW_MARKET_CAP_TEXT":"MARKET CAP",
+        "INFORMATION_ROW_TRADING_VOLUME_TEXT":"TRADING VOLUME",
+        "INFORMATION_ROW_24H_HIGH_TEXT":"24H HIGH",
+        "INFORMATION_ROW_24H_LOW_TEXT":"24H LOW",
+        "INFORMATION_ROW_AVAILABLE_SUPPLY_TEXT":"AVAILABLE SUPPLY",
+        "INFORMATION_ROW_TOTAL_SUPPLY_TEXT":"TOTAL SUPPLY",
+        "INFORMATION_ROW_ALLTIME_HIGH_TEXT":"ALL-TIME HIGH",
+        "INFORMATION_ROW_SINCE_ALLTIME_HIGH_TEXT":"SINCE ALL-TIME HIGH",
+        "INFORMATION_ROW_ALL_TIME_HIGH_DATE_TEXT":"ALL-TIME HIGH DATE",
+        "INFORMATION_ROW_ALLTIME_LOW_TEXT":"ALL-TIME LOW",
+        "INFORMATION_ROW_SINCE_ALLTIME_LOW_TEXT":"SINCE ALL-TIME LOW",
+        "INFORMATION_ROW_ALL_TIME_LOW_DATE_TEXT":"ALL-TIME LOW DATE",
+        "HOURS_TABLE_24H_TEXT":"24H",
+        "HOURS_TABLE_7D_TEXT":"7D",
+        "HOURS_TABLE_14D_TEXT":"14D",
+        "HOURS_TABLE_30D_TEXT":"30D",
+        "HOURS_TABLE_60D_TEXT":"60D",
+        "HOURS_TABLE_1Y_TEXT":"1Y",
+        "COIN_CHART_FAILURE_TEXT":"Something went wrong while getting the chart. Give it another shot.",
+        "CHART_OPTION_VALUE_24H_TEXT":"24H",
+        "CHART_OPTION_VALUE_3D_TEXT":"3D",
+        "CHART_OPTION_VALUE_7D_TEXT":"7D",
+        "CHART_OPTION_VALUE_15D_TEXT":"15D",
+        "CHART_OPTION_VALUE_1M_TEXT":"1M",
+        "CHART_OPTION_VALUE_MAX_TEXT":"MAX"
+    },
+    
+    "ALERT_LIST_SCREEN":{
+        "APP_BAR_TITLE":"Alerts",
+        "PERMISSION_REQUEST_TITLE":"Turn on notifications",
+        "PERMISSION_REQUEST_SUBTITLE": "We noticed that you didn't give us permission to send you notifications. Please click here to turn on your notifications.",
+        "NO_ALERT_TITLE":"Oh! You have no alert :(",
+        "NO_ALERT_SUBTITLE":"You can add a new alert from the plus icon",
+        "ALERT_CELL_REMOVE_TEXT":"REMOVE",
+        "ALERT_CELL_TARGET_TEXT":"Target: {}",
+        "ALERT_CELL_CURRENT_TEXT":"Current: {}"
+    },
+
+   
+
+    "ALERT_DETAIL_SCREEN":{
+    "APP_BAR_TITLE_ADD":"Add",
+    "APP_BAR_TITLE_UPDATE":"Update",
+    "APP_BAR_TITLE_FULL":"{} Price Alert",
+    "EXPLANATION_TEXT":"When the price hits the target price, an alert will be sent to you via app notification. To receive alerts, please allow your phone settings notification permission.",
+    "ALERT_VIEWMODEL_ALERT_ADD_SUCCESS_SNACK_MESSAGE":"Alert has been added successfully",
+    "ALERT_VIEWMODEL_ALERT_ADD_FAILURE_SNACK_MESSAGE":"Something went wrong. Try again.",
+    "ALERT_VIEWMODEL_ALERT_UPDATE_SUCCESS_SNACK_MESSAGE":"Alert has been updated successfully",
+    "ALERT_VIEWMODEL_ALERT_UPDATE_FAILURE_SNACK_MESSAGE":"Something went wrong. Try again.",
+    "ALERT_VIEWMODEL_ALERT_DELETE_SUCCESS_SNACK_MESSAGE":"Alert has been deleted successfully",
+    "ALERT_VIEWMODEL_ALERT_DELETE_FAILURE_SNACK_MESSAGE":"Something went wrong. Try again.",
+    "ALERT_VIEWMODEL_TEXTFIELD_NOT_VALID_NUMBER_SNACK_MESSAGE":"You must enter a valid number.",
+    "BUTTON_UPDATE_TEXT":"UPDATE",
+    "BUTTON_SAVE_TEXT":"SAVE",
+    "CURRENT_PRICE_TEXT":"Current Price: {}"
+    },
+    
+    "GLOBAL_COMPONENT":{
+        "FAILURE_WIDGET_EXPLANATION_TEXT":"Oops, something went wrong, but be calm - let's give it another shot.",
+        "FAILURE_WIDGET_BUTTON_TEXT":"Try Again",
+        "SELECTION_PAGE_TEXTFIELD_CANCEL_TEXT":"Cancel"
+    },
+
+    "MARKET_FEATURE":{
+        "LISTING_ENUM":{
+            "MARKET_SORT_GECKO_ASC_DISPLAY_VALUE":"Smart Ranking Ascending",
+            "MARKET_SORT_GECKO_DESC_DISPLAY_VALUE":"Smart Ranking Descending",
+            "MARKET_SORT_ID_ASC_DISPLAY_VALUE":"Ascending ID",
+            "MARKET_SORT_ID_DESC_DISPLAY_VALUE":"Descending ID",
+            "MARKET_SORT_MARKETCAP_ASC_DISPLAY_VALUE":"Smallest Market Cap",
+            "MARKET_SORT_MARKETCAP_DESC_DISPLAY_VALUE":"Largest Market Cap",
+            "MARKET_SORT_VOLUME_ASC_DISPLAY_VALUE":"Ascending Volume",
+            "MARKET_SORT_VOLUME_DESC_DISPLAY_VALUE":"Descending Volume",
+            "MARKET_DATE_1H_DISPLAY_VALUE":"1H",
+            "MARKET_DATE_24H_DISPLAY_VALUE":"24H",
+            "MARKET_DATE_7D_DISPLAY_VALUE":"7D",
+            "MARKET_DATE_30D_DISPLAY_VALUE":"30D"
+        }
+    },
+
+    "NOTIFICATION":{
+        "NOTIFICATION_MULTIPLE_COINS_ALERT_TITLE": "Some of your coins just hit their target prices!",
+        "NOTIFICATION_MULTIPLE_COINS_ALERT_DESCRIPTION": "See what's happening",
+        "NOTIFICATION_COIN_ALERT_TITLE": "{} hit its target price!",
+        "NOTIFICATION_COIN_ALERT_DESCRIPTION": "See what's happening"
+    },
+    
+   
+
+    "MINI_SERVICE":{
+        "SHARE_MAIN_TEXT":"Hey, I found a cryptocurrency app and I love it. It's Coin Dino. Check it out! https://apps.apple.com/us/app/coin-dino-crypto-tracker/id1581811548",
+        "SHARE_SUBJECT_TEXT":"Coin Dino",
+        "URL_LAUNCHER_SEND_CONTANT_MAIL_SUBJECT_TEXT":"Feedback",
+        "URL_LAUNCHER_SEND_CONTANT_MAIL_BODY_TEXT":"Hello, I have a feedback for Coin Dino."
+    }
+   
+}
+
